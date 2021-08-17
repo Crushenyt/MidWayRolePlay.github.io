@@ -99,8 +99,8 @@ ul > li:hover > ul
 
 #navmenu {
 	position: absolute;
- 	left: 50%;
- 	top: 2%;
+ 	left: 30%;
+ 	top: 4%;
  	transform: translate(-50%, -50%);
 	text-align: center;
 }

@@ -8,7 +8,7 @@
 #midwayrp {               
  	position: absolute;
  	left: 50%;
- 	top: 5000%;
+ 	top: 1000%;
  	transform: translate(-50%, -50%);
 	text-align: center;
 }

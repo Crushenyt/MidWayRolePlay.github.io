@@ -1,7 +1,7 @@
 body {
   background: url('bilder/6148.jpg') no-repeat;
   background-size: cover;
-  cursor: url(../source/cursor.cur), auto !important;
+  cursor: url(./source/cursor.cur), auto !important;
   color: #fff;
   overflow: hidden;
   font-family: monospace;

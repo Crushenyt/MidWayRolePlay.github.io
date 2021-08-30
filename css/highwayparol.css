@@ -1,12 +1,9 @@
 body {
-  background: url('bilder/6148.jpg') no-repeat;
-  background-size: cover;
-  cursor: url(../source/cursor.cur), auto !important;
-  color: #fff;
-  overflow: hidden;
-  font-family: monospace;
-  text-shadow: 0px 0px 10px #000000
-}
+    background: url('bilder/San Andreas Highway Patrol.png') no-repeat;
+    background-size: cover;
+    font-family: Arial;
+    color: white;
+  }
 li
 {
     list-style-type: none;
@@ -18,7 +15,7 @@ li a
 {
     text-decoration: none;
     
-    display: block;
+    display: block
     color: black;
     line-height: 42px;
     /*transition: background 0.5s;*/
@@ -32,7 +29,7 @@ ul li {
   position: relative;
   margin-right: 0px;
   float: left;
-  width:  168.5px;
+  width:  150px;
   height: 40px;
   background-color: black;
   opacity: .8;
@@ -96,8 +93,6 @@ ul > li:hover > ul
     margin-top: 1px;
     margin-right: 1px;
 }
-
-
 ul.items li
 {
     /*border-top: 1px solid white;*/

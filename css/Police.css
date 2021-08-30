@@ -10,7 +10,7 @@ body {
 
   #navmenu {
 	position: absolute;
- 	left: 9.9%;
+ 	left: 10%;
  	top: 2%;
  	transform: translate(-9%, -0%);
 	text-align: center;
@@ -42,7 +42,7 @@ ul li {
   position: relative;
   margin-right: 0px;
   float: left;
-  width:  250px;
+  width:  230px;
   height: 40px;
   background-color: black;
   opacity: .8;
